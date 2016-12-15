@@ -1,9 +1,9 @@
 Welcome to the project <@${message.user.id}|${message.user.name}>, here is a quick message
 
 *General News*
-- Launch date is in late April, 2017
-- Launch site is to be determined, but most likely in Virginia Beach, or North Carolina
-- We are restructuring the team right now, we are getting rid of Figma and circuits.io account requirements. The Basecamp will no longer be used. Please contact an admin to be invited to the new Trello
+- Launch date is in March, 2017
+- Launch site is to be determined, but most likely in Cape Hatteras
+- Please contact an admin to be invited to the Trello or Github where apllicable
 - Please notify <@${USERS.compilergeek}|compilergeek> or <@${USERS.player2}|player2> about your role in the team! (Developer, Hardware, Software, etc.)
 - Please add your name to the list of launch/recovery sites if you are able/willing to recover or launch from the sites. The spreadsheet is here.
 
